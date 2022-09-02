@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kwambokaB
-- 👀 I’m interested in developing mobile applications using react native
+- 👀 I’m interested in developing mobile applications using react native and kotlin Android
 - 🌱 I’m currently learning python, relational databases, algorithms and mqtt
-- 💞️ I’m looking to collaborate on react and react native projects
-- 📫 How to reach me ~paula.paulatek@gmail.com
+- 💞️ I’m looking to collaborate on react, react native and android kotlin projects
+- 📫 How to reach me ~boulatekwamboka@gmail.com
 
 <!---
 kwambokaB/kwambokaB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
