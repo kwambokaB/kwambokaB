@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Boulate Hwamboka</h1>
 <h3 align="center">A passionate full stack software developer from Nairobi, Kenya</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kwambokab" alt="kwambokab" /></a> </p>
 
 - 🔭 I’m currently working on [Open source project](https://github.com/ALCOpenSource/conversational-app-team3)
 
@@ -31,4 +30,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kwambokab&show_icons=true&locale=en" alt="kwambokab" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kwambokab&" alt="kwambokab" /></p>
