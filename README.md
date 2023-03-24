@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Boulate Hwamboka</h1>
+<h1 align="center">Hi 👋, I'm Boulate Kwamboka</h1>
 <h3 align="center">A passionate full stack software developer from Nairobi, Kenya</h3>
 
 
