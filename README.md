@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack software developer from Nairobi, Kenya</h3>
 
 
-- 🔭 I’m currently working on [Open source project](https://github.com/ALCOpenSource/conversational-app-team3)
+- 🔭 I’m currently working on [Open source project](https://github.com/ALCOpenSource/Mentor-Management-System-Team-4)
 
 - 🌱 I’m currently learning **Kotlin Android**
 
